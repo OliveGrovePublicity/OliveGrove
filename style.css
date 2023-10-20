@@ -29,7 +29,6 @@ a {
   width: 100%;
 }
 .sticky {
-  position: sticky;
-  top: 2em;
+  position: fixed;
   bottom: 2em;
 }

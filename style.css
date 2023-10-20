@@ -4,6 +4,9 @@ body {
   font-size: 16px;
   color: #0e0f00ff
 }
+h1 {
+  font-size: 24px;
+}
 
 /* Layout */
 .container-fluid {

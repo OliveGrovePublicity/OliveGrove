@@ -6,6 +6,9 @@ body {
   margin: 10vw;
   padding: 1em;
 }
+col {
+  padding: 1em;
+}
 h1 {
   font-size: 24px;
   margin-top: 2em;

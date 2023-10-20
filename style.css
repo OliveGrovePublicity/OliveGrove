@@ -28,7 +28,10 @@ a {
 .container-fluid {
   width: 100%;
 }
+.logo {
+  position: relative;
+}
 .sticky {
-  position: fixed;
+  position: absolute;
   bottom: 2em;
 }

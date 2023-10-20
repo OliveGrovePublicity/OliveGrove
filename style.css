@@ -31,6 +31,4 @@ a {
 .sticky {
   position: sticky;
   top: 0;
-  margin-top: 2em;
-  margin-bottom; 2em;
 }

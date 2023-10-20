@@ -4,3 +4,8 @@ body {
   font-size: 16px;
   color: #0e0f00ff
 }
+
+/* Layout */
+.container-fluid {
+  width: 100%;
+}

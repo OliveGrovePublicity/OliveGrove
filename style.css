@@ -11,6 +11,15 @@ h1 {
   margin-top: 2em;
   margin-bottom: 1em;
 }
+#email {
+  color: #0e0f00ff
+}
+#email-span {
+  background-color: #a0ca73ff;
+}
+a {
+  color: #4a740fff;
+}
 
 /* Layout */
 .container-fluid {

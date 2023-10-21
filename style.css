@@ -3,16 +3,17 @@ body {
   font-family: Garamond, serif;
   font-size: 16px;
   color: #0e0f00ff;
-  margin: 6vw;
-  padding: 1em;
+  margin: 4vw;
 }
-/*col {
+col {
   margin-left: 2em;
-}*/
+}
 h1 {
   font-size: 24px;
-  margin-top: 2em;
-  margin-bottom: 1em;
+  margin: 2vw;
+}
+p {
+  margin: 2vw;
 }
 .email {
   color: #0e0f00ff
@@ -29,9 +30,6 @@ a {
   width: 100%;
 }
 .logo {
-  position: relative;
-}
-.sticky {
-  position: absolute;
-  bottom: 2em;
+  position: sticky;
+  top: 80%;
 }
